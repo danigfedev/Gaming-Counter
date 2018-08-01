@@ -1,0 +1,4 @@
+*.csproj
+*.sln
+GameHourRegister/Builds/
+GameHourRegister/Library/

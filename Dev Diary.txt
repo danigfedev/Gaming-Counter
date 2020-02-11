@@ -1,0 +1,16 @@
+***************************************************************
+***************************************************************
+*							      *	
+*		GAME HOUR REGISTER DEV DIARY		      *	
+*							      *	
+***************************************************************
+***************************************************************
+
+
+27/11/2018 ****************************************************
+
+- Project review.
+- Reordering assets. 0-GameHourRegister asset folder creation.
+- Timer mod: Control of screen sleep/awake state with a flag.
+- Tested game creation and appending to xml. WORKING
+- Tested gamelist load. ERROR
